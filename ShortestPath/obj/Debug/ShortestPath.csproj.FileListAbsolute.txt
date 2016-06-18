@@ -1,0 +1,18 @@
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\bin\Debug\ShortestPath.exe.config
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\bin\Debug\ShortestPath.exe
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\bin\Debug\ShortestPath.pdb
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\obj\Debug\ShortestPath.csprojResolveAssemblyReference.cache
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\obj\Debug\ShortestPath.Properties.Resources.resources
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\obj\Debug\ShortestPath.csproj.GenerateResource.Cache
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\obj\Debug\ShortestPath.exe
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\obj\Debug\ShortestPath.pdb
+C:\Users\Vasil\Documents\School\Math\Block 4\ShortestPath\ShortestPath\obj\Debug\ShortestPath.Form1.resources
+D:\Documents\Desktop\ShortestPath\ShortestPath\bin\Debug\ShortestPath.exe.config
+D:\Documents\Desktop\ShortestPath\ShortestPath\obj\Debug\ShortestPath.exe
+D:\Documents\Desktop\ShortestPath\ShortestPath\obj\Debug\ShortestPath.pdb
+D:\Documents\Desktop\ShortestPath\ShortestPath\bin\Debug\ShortestPath.exe
+D:\Documents\Desktop\ShortestPath\ShortestPath\bin\Debug\ShortestPath.pdb
+D:\Documents\Desktop\ShortestPath\ShortestPath\obj\Debug\ShortestPath.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\ShortestPath\ShortestPath\obj\Debug\ShortestPath.Form1.resources
+D:\Documents\Desktop\ShortestPath\ShortestPath\obj\Debug\ShortestPath.Properties.Resources.resources
+D:\Documents\Desktop\ShortestPath\ShortestPath\obj\Debug\ShortestPath.csproj.GenerateResource.Cache
